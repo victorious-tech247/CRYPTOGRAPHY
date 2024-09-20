@@ -1,0 +1,1 @@
+Cryptography is a crucial aspect of cybersecurity that involves using algorithms and protocols to protect the confidentiality, integrity, authenticity of data and there are two distinct keys used in Cryptography; Symmetric and Asymmetric.
